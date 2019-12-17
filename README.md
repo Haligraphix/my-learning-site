@@ -1,2 +1,2 @@
-# udemy
+# Haligraphix
 Practice files
